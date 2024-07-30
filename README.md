@@ -11,9 +11,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Elaborado na aula do programa Explorer da Rocketseat.
+Elaborado no stage 02 do programa Explorer da Rocketseat.
 
-- [Página](https://sdesuzane.github.io/Treine.me/)
 
 ## 🔖 Layout
 
